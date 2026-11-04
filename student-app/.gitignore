@@ -1,0 +1,38 @@
+# Private environment files at any depth. Share only empty templates.
+.env*
+!.env.example
+
+# Credentials and signing material
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.jks
+*.mobileprovision
+
+# Dependencies and generated build files
+node_modules/
+.expo/
+dist/
+web-build/
+.playwright-cli/
+.superpowers/
+*.tsbuildinfo
+.metro-health-check*
+.kotlin/
+apps/mobile/ios/
+apps/mobile/android/
+
+# Local captures and logs
+/output/
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
+apps/api/data/
+
+# Python extraction worker caches
+__pycache__/
+*.pyc

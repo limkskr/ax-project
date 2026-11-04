@@ -1,0 +1,4495 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-04",
+  "units": [
+    {
+      "id": "advanced-industry",
+      "name": "첨단산업융합학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "semiconductor-engineering",
+          "name": "반도체공학전공"
+        },
+        {
+          "id": "defense",
+          "name": "첨단방산공학전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "built-environment",
+      "name": "건축토목환경공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "architectural-engineering",
+          "name": "건축공학전공"
+        },
+        {
+          "id": "architecture",
+          "name": "건축학전공(5년제)"
+        },
+        {
+          "id": "civil",
+          "name": "토목공학전공"
+        },
+        {
+          "id": "environment",
+          "name": "환경공학전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "mechanical",
+      "name": "기계공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "mechanical-engineering",
+          "name": "기계공학전공"
+        },
+        {
+          "id": "mechanical-system",
+          "name": "기계시스템공학전공"
+        },
+        {
+          "id": "mobility",
+          "name": "스마트모빌리티전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "industrial-data",
+      "name": "산업·빅데이터공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "industrial",
+          "name": "산업공학전공"
+        },
+        {
+          "id": "bigdata",
+          "name": "수리빅데이터전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "materials",
+      "name": "재료공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "polymer",
+          "name": "고분자공학전공"
+        },
+        {
+          "id": "materials-engineering",
+          "name": "신소재공학전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "electronics",
+      "name": "전자공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "semiconductor-system",
+          "name": "반도체시스템전공"
+        },
+        {
+          "id": "electronic-system",
+          "name": "전자시스템전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "computing",
+      "name": "컴퓨터공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "software",
+          "name": "소프트웨어전공"
+        },
+        {
+          "id": "ai",
+          "name": "인공지능공학전공"
+        },
+        {
+          "id": "computer",
+          "name": "컴퓨터공학전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "chemical-materials",
+      "name": "화학소재공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "textile",
+          "name": "소재디자인공학전공"
+        },
+        {
+          "id": "chemical",
+          "name": "화학공학전공"
+        },
+        {
+          "id": "chembio",
+          "name": "화학생명소재전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "optical",
+      "name": "광시스템공학과",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "optical",
+          "name": "광시스템공학과"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "biomedical",
+      "name": "바이오메디컬공학과",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "biomedical",
+          "name": "바이오메디컬공학과"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "it-convergence",
+      "name": "IT융합학과",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "it",
+          "name": "IT융합학과"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "undeclared",
+      "name": "자율전공학부",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "business",
+      "name": "경영학과",
+      "studentSelectable": true,
+      "rosterStatus": "confirmed",
+      "programs": [
+        {
+          "id": "business",
+          "name": "경영학과"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "ax",
+      "name": "AX융합학과",
+      "studentSelectable": true,
+      "rosterStatus": "pending",
+      "programs": [
+        {
+          "id": "ax",
+          "name": "AX융합학과"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    },
+    {
+      "id": "rec",
+      "name": "글로컬융합학부(REC학부)",
+      "studentSelectable": true,
+      "rosterStatus": "pending",
+      "programs": [
+        {
+          "id": "rec-nano",
+          "name": "나노소재에너지융합전공"
+        },
+        {
+          "id": "rec-medical",
+          "name": "메디컬IT융합전공"
+        },
+        {
+          "id": "rec-manufacturing",
+          "name": "스마트제조시스템전공"
+        },
+        {
+          "id": "rec-electronics",
+          "name": "전자시스템융합전공"
+        },
+        {
+          "id": "rec-business",
+          "name": "글로벌경영전공"
+        }
+      ],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?articleNo=574416&mode=view"
+    },
+    {
+      "id": "contract-mechanical",
+      "name": "기계융합공학과",
+      "studentSelectable": true,
+      "rosterStatus": "pending",
+      "programs": [
+        {
+          "id": "contract-mechanical",
+          "name": "기계융합공학과"
+        }
+      ],
+      "sourceUrl": "https://iacf.kumoh.ac.kr/iacf/sub03_0101.do"
+    },
+    {
+      "id": "contract-management",
+      "name": "산업경영공학과",
+      "studentSelectable": true,
+      "rosterStatus": "pending",
+      "programs": [
+        {
+          "id": "contract-management",
+          "name": "산업경영공학과"
+        }
+      ],
+      "sourceUrl": "https://iacf.kumoh.ac.kr/iacf/sub03_0101.do"
+    },
+    {
+      "id": "contract-convergence",
+      "name": "산업융합공학과",
+      "studentSelectable": true,
+      "rosterStatus": "pending",
+      "programs": [
+        {
+          "id": "contract-convergence",
+          "name": "산업융합공학과"
+        }
+      ],
+      "sourceUrl": "https://iacf.kumoh.ac.kr/iacf/sub03_0101.do"
+    },
+    {
+      "id": "general",
+      "name": "교양학부",
+      "studentSelectable": false,
+      "rosterStatus": "confirmed",
+      "programs": [],
+      "sourceUrl": "https://www.kumoh.ac.kr/ko/sub02_01_01.do"
+    }
+  ],
+  "professors": [
+    {
+      "id": "industrial-013",
+      "name": "강봉권",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-002",
+      "name": "강용구",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-005",
+      "name": "강준경",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "architecture-012",
+      "name": "고건수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        },
+        {
+          "unitId": "built-environment",
+          "programId": "architecture",
+          "kind": "listed",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-004",
+      "name": "고규현",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-021",
+      "name": "고민준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-004",
+      "name": "고재필",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "adjunct",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0202.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-011",
+      "name": "공인엽",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-039",
+      "name": "공임보",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-024",
+      "name": "곽윤기",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-004",
+      "name": "곽호상",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-006",
+      "name": "구정호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-007",
+      "name": "권기연",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-001",
+      "name": "권오형",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-005",
+      "name": "권현규",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-021",
+      "name": "김경록",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-010",
+      "name": "김경수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "adjunct",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0202.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-019",
+      "name": "김경식",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-009",
+      "name": "김경진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-005",
+      "name": "김귀곤",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "optics-emeritus-002",
+      "name": "김규욱",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "emeritus",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-012",
+      "name": "김기환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-007",
+      "name": "김동성",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-004",
+      "name": "김동주",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-014",
+      "name": "김민석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-001",
+      "name": "김병만",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "bigdata-006",
+      "name": "김상권",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "bigdata",
+          "kind": "primary",
+          "sourceUrl": "https://bigdata.kumoh.ac.kr/bigdata/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-002",
+      "name": "김상호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-002",
+      "name": "김석환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-003",
+      "name": "김선명",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-006",
+      "name": "김선아",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-006",
+      "name": "김성겸",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-003",
+      "name": "김성동",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-005",
+      "name": "김성렬",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "it-001",
+      "name": "김성범",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "it-convergence",
+          "programId": "it",
+          "kind": "primary",
+          "sourceUrl": "https://itc.kumoh.ac.kr/itc/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-005",
+      "name": "김성영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "adjunct",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0202.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-006",
+      "name": "김영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "edison-002",
+      "name": "김영도",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "advanced-industry",
+          "programId": "semiconductor-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-007",
+      "name": "김영우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-008",
+      "name": "김영원",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-emeritus-003",
+      "name": "김영학",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "emeritus",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "it-002",
+      "name": "김영형",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "it-convergence",
+          "programId": "it",
+          "kind": "primary",
+          "sourceUrl": "https://itc.kumoh.ac.kr/itc/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-009",
+      "name": "김용원",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-002",
+      "name": "김우석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optics-001",
+      "name": "김원근",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "primary",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-012",
+      "name": "김은지",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-016",
+      "name": "김재환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-010",
+      "name": "김종복",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-008",
+      "name": "김준식",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-013",
+      "name": "김준영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-013",
+      "name": "김중길",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "sls-047",
+      "name": "김중현",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "listed",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "ai-001",
+      "name": "김지형",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "primary",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-011",
+      "name": "김진우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business-004",
+      "name": "김진한",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-003",
+      "name": "김태성",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "environment-003",
+      "name": "김태오",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "environment",
+          "kind": "primary",
+          "sourceUrl": "https://env.kumoh.ac.kr/env/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "ai-004",
+      "name": "김태형",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "primary",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-006",
+      "name": "김한준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "biomedical",
+          "programId": "biomedical",
+          "kind": "primary",
+          "sourceUrl": "https://biomedical.kumoh.ac.kr/medicalit/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-007",
+      "name": "김현옥",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-019",
+      "name": "김현찬",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-007",
+      "name": "김형준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-003",
+      "name": "김혜경",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-002",
+      "name": "김호태",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-018",
+      "name": "김황선",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "optics-002",
+      "name": "김효정",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "primary",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-001",
+      "name": "김희준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-007",
+      "name": "나병준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-005",
+      "name": "노성진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-006",
+      "name": "노승준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optics-003",
+      "name": "노재범",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "primary",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-006",
+      "name": "노재승",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-003",
+      "name": "류성룡",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials-017",
+      "name": "류욱하",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-011",
+      "name": "류준석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "ai-002",
+      "name": "류훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "primary",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "sls-013",
+      "name": "맹규호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "listed",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-015",
+      "name": "문선요",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-008",
+      "name": "문재상",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-008",
+      "name": "문진아",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-001",
+      "name": "민병길",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-002",
+      "name": "박경석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-008",
+      "name": "박민정",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-017",
+      "name": "박범용",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-004",
+      "name": "박성용",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials-020",
+      "name": "박영태",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-028",
+      "name": "박예슬",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-005",
+      "name": "박용일",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-030",
+      "name": "박정수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-015",
+      "name": "박정환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "environment-004",
+      "name": "박제철",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "environment",
+          "kind": "primary",
+          "sourceUrl": "https://env.kumoh.ac.kr/env/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-001",
+      "name": "박종천",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-007",
+      "name": "박준영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-012",
+      "name": "박준용",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-006",
+      "name": "박중윤",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-008",
+      "name": "박철민",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "edison-001",
+      "name": "박홍석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "advanced-industry",
+          "programId": "defense",
+          "kind": "primary",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-034",
+      "name": "박홍휘",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-024",
+      "name": "반재필",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-003",
+      "name": "방건준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-002",
+      "name": "방대석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-007",
+      "name": "배근열",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-006",
+      "name": "서민우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-038",
+      "name": "서승기",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-005",
+      "name": "서영진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-005",
+      "name": "설인환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-002",
+      "name": "성영휘",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "environment-006",
+      "name": "손영규",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "environment",
+          "kind": "primary",
+          "sourceUrl": "https://env.kumoh.ac.kr/env/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-012",
+      "name": "손영일",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-011",
+      "name": "손정우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-001",
+      "name": "송광섭",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "biomedical",
+          "programId": "biomedical",
+          "kind": "primary",
+          "sourceUrl": "https://biomedical.kumoh.ac.kr/medicalit/sub0301.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-015",
+      "name": "송도원",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-005",
+      "name": "송영준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-007",
+      "name": "송윤성",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-002",
+      "name": "송지혜",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-008",
+      "name": "송화섭",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-001",
+      "name": "신경욱",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-001",
+      "name": "신동원",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-013",
+      "name": "신수용",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "bigdata-003",
+      "name": "신승혁",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "bigdata",
+          "kind": "primary",
+          "sourceUrl": "https://bigdata.kumoh.ac.kr/bigdata/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-022",
+      "name": "신재욱",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-001",
+      "name": "안동준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "materials-009",
+      "name": "안성진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-009",
+      "name": "안형태",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-008",
+      "name": "안흥조",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-003",
+      "name": "양비룡",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-010",
+      "name": "양연모",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-023",
+      "name": "양종인",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "bigdata-002",
+      "name": "양지연",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "bigdata",
+          "kind": "primary",
+          "sourceUrl": "https://bigdata.kumoh.ac.kr/bigdata/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "edison-003",
+      "name": "엄대영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "advanced-industry",
+          "programId": "semiconductor-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-004",
+      "name": "엄지용",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "biomedical",
+          "programId": "biomedical",
+          "kind": "primary",
+          "sourceUrl": "https://biomedical.kumoh.ac.kr/medicalit/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-006",
+      "name": "엄태준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-emeritus-002",
+      "name": "오길호",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "emeritus",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-006",
+      "name": "오병우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-004",
+      "name": "오우진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-006",
+      "name": "오일환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-003",
+      "name": "오충석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-008",
+      "name": "유아람",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optics-004",
+      "name": "유재명",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "primary",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-001",
+      "name": "윤관한",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-028",
+      "name": "윤대근",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-008",
+      "name": "윤현주",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-008",
+      "name": "은종현",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "bigdata-004",
+      "name": "이경준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "bigdata",
+          "kind": "primary",
+          "sourceUrl": "https://bigdata.kumoh.ac.kr/bigdata/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-002",
+      "name": "이경희",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-009",
+      "name": "이광희",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-001",
+      "name": "이광희",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-009",
+      "name": "이귀현",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-010",
+      "name": "이규철",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-026",
+      "name": "이기준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-006",
+      "name": "이길용",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-001",
+      "name": "이동구",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-016",
+      "name": "이동현",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-005",
+      "name": "이민호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-016",
+      "name": "이상봉",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-014",
+      "name": "이상효",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "optics-005",
+      "name": "이상훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "primary",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-005",
+      "name": "이성규",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-007",
+      "name": "이승엽",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "environment-002",
+      "name": "이승환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "environment",
+          "kind": "primary",
+          "sourceUrl": "https://env.kumoh.ac.kr/env/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-019",
+      "name": "이승환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-003",
+      "name": "이승희",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "sls-046",
+      "name": "이영실",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "listed",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-008",
+      "name": "이용환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "business-002",
+      "name": "이욱기",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "business",
+          "programId": "business",
+          "kind": "primary",
+          "sourceUrl": "https://biz.kumoh.ac.kr/biz/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-021",
+      "name": "이원일",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-011",
+      "name": "이원재",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "environment-005",
+      "name": "이원태",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "environment",
+          "kind": "primary",
+          "sourceUrl": "https://env.kumoh.ac.kr/env/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-022",
+      "name": "이원형",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-003",
+      "name": "이원호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-013",
+      "name": "이은택",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-007",
+      "name": "이이섭",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-018",
+      "name": "이재민",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-005",
+      "name": "이정수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "biomedical",
+          "programId": "biomedical",
+          "kind": "primary",
+          "sourceUrl": "https://biomedical.kumoh.ac.kr/medicalit/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "it-004",
+      "name": "이종석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "it-convergence",
+          "programId": "it",
+          "kind": "primary",
+          "sourceUrl": "https://itc.kumoh.ac.kr/itc/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-006",
+      "name": "이종수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-005",
+      "name": "이종찬",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-004",
+      "name": "이종환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-013",
+      "name": "이창석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        },
+        {
+          "unitId": "built-environment",
+          "programId": "architectural-engineering",
+          "kind": "listed",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-004",
+      "name": "이철경",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-027",
+      "name": "이청화",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-010",
+      "name": "이태규",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optics-emeritus-001",
+      "name": "이태동",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "emeritus",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-007",
+      "name": "이태원",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-023",
+      "name": "이하림",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-035",
+      "name": "이학준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "bigdata-005",
+      "name": "이해성",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "bigdata",
+          "kind": "primary",
+          "sourceUrl": "https://bigdata.kumoh.ac.kr/bigdata/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-004",
+      "name": "이해연",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-020",
+      "name": "이헌철",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-007",
+      "name": "이현권",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-005",
+      "name": "이현수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-002",
+      "name": "이현아",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-027",
+      "name": "이호섭",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-006",
+      "name": "이희란",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-003",
+      "name": "이희영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-015",
+      "name": "이희진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-002",
+      "name": "임기무",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "biomedical",
+          "programId": "biomedical",
+          "kind": "primary",
+          "sourceUrl": "https://biomedical.kumoh.ac.kr/medicalit/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-009",
+      "name": "임상훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-029",
+      "name": "임태흥",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-014",
+      "name": "임현승",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-020",
+      "name": "임혜림",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-012",
+      "name": "장영찬",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-005",
+      "name": "장의순",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-001",
+      "name": "장일영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-009",
+      "name": "장일훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chemical-004",
+      "name": "장지웅",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chemical",
+          "kind": "primary",
+          "sourceUrl": "https://che.kumoh.ac.kr/che/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-004",
+      "name": "장진호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-emeritus-001",
+      "name": "장춘서",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "emeritus",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-036",
+      "name": "전명환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-002",
+      "name": "전석진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-007",
+      "name": "전성권",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "bigdata-001",
+      "name": "전윤배",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "bigdata",
+          "kind": "primary",
+          "sourceUrl": "https://bigdata.kumoh.ac.kr/bigdata/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "software-006",
+      "name": "전태수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "software",
+          "kind": "primary",
+          "sourceUrl": "https://cs.kumoh.ac.kr/cs/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-032",
+      "name": "정수민",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-007",
+      "name": "정수환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "environment-001",
+      "name": "정연구",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "environment",
+          "kind": "primary",
+          "sourceUrl": "https://env.kumoh.ac.kr/env/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-002",
+      "name": "정영관",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "ai-003",
+      "name": "정유철",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "primary",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "textile-003",
+      "name": "정인희",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "textile",
+          "kind": "primary",
+          "sourceUrl": "https://textile.kumoh.ac.kr/textile/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-025",
+      "name": "정재진",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-037",
+      "name": "정종우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-018",
+      "name": "정지훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-003",
+      "name": "정해",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-004",
+      "name": "정현민",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-009",
+      "name": "정훈주",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-011",
+      "name": "조경훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "edison-005",
+      "name": "조금원",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "advanced-industry",
+          "programId": "defense",
+          "kind": "primary",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-005",
+      "name": "조범곤",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-001",
+      "name": "조성주",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-010",
+      "name": "조은환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-010",
+      "name": "주백석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "chembio-003",
+      "name": "지광환",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "chemical-materials",
+          "programId": "chembio",
+          "kind": "primary",
+          "sourceUrl": "https://chembio.kumoh.ac.kr/chembio/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "it-003",
+      "name": "지선구",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "it-convergence",
+          "programId": "it",
+          "kind": "primary",
+          "sourceUrl": "https://itc.kumoh.ac.kr/itc/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-014",
+      "name": "천지민",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-011",
+      "name": "최동수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "adjunct",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0202.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-006",
+      "name": "최성대",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "biomedical-003",
+      "name": "최세운",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "biomedical",
+          "programId": "biomedical",
+          "kind": "primary",
+          "sourceUrl": "https://biomedical.kumoh.ac.kr/medicalit/sub0301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-007",
+      "name": "최시혁",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-012",
+      "name": "최연규",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "materials-013",
+      "name": "최인철",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "materials-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mse.kumoh.ac.kr/mse/sub0105.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-004",
+      "name": "최정아",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "polymer-004",
+      "name": "최청룡",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "materials",
+          "programId": "polymer",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/polymer/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-002",
+      "name": "최태영",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-033",
+      "name": "최현준",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-001",
+      "name": "최환",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "industrial-010",
+      "name": "추상현",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "industrial-data",
+          "programId": "industrial",
+          "kind": "primary",
+          "sourceUrl": "https://ie.kumoh.ac.kr/ie/sub0401.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "optics-emeritus-003",
+      "name": "추한태",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "optical",
+          "programId": "optical",
+          "kind": "emeritus",
+          "sourceUrl": "https://optics.kumoh.ac.kr/optics/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-001",
+      "name": "하종범",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "computer-001",
+      "name": "한규필",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-003",
+      "name": "한수식",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-engineering",
+          "kind": "primary",
+          "sourceUrl": "https://mecheng.kumoh.ac.kr/mecheng/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-017",
+      "name": "한장우",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "mechanical",
+          "programId": "mobility",
+          "kind": "primary",
+          "sourceUrl": "https://mobility.kumoh.ac.kr/smartmobility/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-026",
+      "name": "한창호",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "semiconductor-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-004",
+      "name": "한철호",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "civil-002",
+      "name": "한희수",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": "civil",
+          "kind": "primary",
+          "sourceUrl": "https://civil.kumoh.ac.kr/civil/sub010301.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-029",
+      "name": "허덕재",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-011",
+      "name": "허선애",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "edison-004",
+      "name": "허용석",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "advanced-industry",
+          "programId": "defense",
+          "kind": "primary",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "undeclared",
+          "programId": null,
+          "kind": "advising",
+          "sourceUrl": "https://sls.kumoh.ac.kr/sls/sub0201.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-012",
+      "name": "허장욱",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-emeritus-008",
+      "name": "홍성욱",
+      "isEmeritus": true,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "emeritus",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "electronics-031",
+      "name": "황규윤",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "electronics",
+          "programId": "electronic-system",
+          "kind": "primary",
+          "sourceUrl": "https://www.kumoh.ac.kr/see/sub0401.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "architecture-009",
+      "name": "황성훈",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "built-environment",
+          "programId": null,
+          "kind": "faculty",
+          "sourceUrl": "https://archi.kumoh.ac.kr/archi/sub010101.do",
+          "checkedAt": "2026-10-04",
+          "browseProgramIds": [
+            "architectural-engineering",
+            "architecture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "computer-003",
+      "name": "황준하",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "computing",
+          "programId": "computer",
+          "kind": "primary",
+          "sourceUrl": "https://ce.kumoh.ac.kr/ce/sub0201.do",
+          "checkedAt": "2026-10-04"
+        },
+        {
+          "unitId": "computing",
+          "programId": "ai",
+          "kind": "adjunct",
+          "sourceUrl": "https://ai.kumoh.ac.kr/ai/sub0202.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "mechanical_system-025",
+      "name": "황희재",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "mechanical",
+          "programId": "mechanical-system",
+          "kind": "primary",
+          "sourceUrl": "https://mx.kumoh.ac.kr/md/sub0102.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    },
+    {
+      "id": "general-016",
+      "name": "Zaki Stewart",
+      "isEmeritus": false,
+      "memberships": [
+        {
+          "unitId": "general",
+          "programId": null,
+          "kind": "primary",
+          "sourceUrl": "https://latt.kumoh.ac.kr/latt/sub0103.do",
+          "checkedAt": "2026-10-04"
+        }
+      ]
+    }
+  ]
+}
